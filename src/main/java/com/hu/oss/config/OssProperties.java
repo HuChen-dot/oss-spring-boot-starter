@@ -4,10 +4,10 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @Author JiaQIng
+ * @Author chenhu
  * @Description Oss配置类
  * @ClassName OssProperties
- * @Date 2023/3/18 17:51
+ * @Date 2024/3/18 17:51
  **/
 @Data
 @ConfigurationProperties(prefix = "oss")
