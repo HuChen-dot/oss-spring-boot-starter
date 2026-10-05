@@ -1,3 +1,9 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 101MB
+
 oss:
   url: https://takeout.wison.com
   access-key: wison
